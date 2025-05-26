@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Hello, World
+## About Me
+I am Tetra, just a russian guy. JS developer, also working with other languages. Just getting started with GitHub with my friend, Teresh.
+## About my projects:
+I`m working on different projects - Bots for TG, Discord and VK, mods for Terraria, Mindustry and Minecraft, some AI things.
 <!--
 **Megrmdir/Megrmdir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
