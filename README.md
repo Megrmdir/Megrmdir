@@ -90,7 +90,7 @@ Modding games has been a long-standing passion, allowing me to dissect and exten
 *   **Mindustry – "KaDD Mod":**
     *   A large-scale overhaul mod that introduced an entirely new planet, completely devoid of vanilla content.
     *   Featured new crafting systems, unique enemies, distinct weaponry, a new campaign, and a more perilous progression where core resources were often flammable or explosive, meaning "one mistake and you're done."
-    *   The main GitHub repository for this mod was unfortunately lost, but a "Lite" version (with significantly less content, JSON adapted version) still exists on my old GitHub profile (Demon EVD).
+    *   The main GitHub repository for this mod was unfortunately lost, but a "Lite" version (with significantly less content, JSON adapted version) still exists on my old GitHub profile.
 *   **Minecraft Server Development:**
     *   I've run and developed for my own Minecraft server (still accessible!).
     *   This involved writing core modifications (Java), custom world and structure generation, and creating KubeJS add-ons for new entities, recipes, etc.
